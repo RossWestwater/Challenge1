@@ -1,23 +1,14 @@
-# <Your-Project-Title>
+# Horiseon Landing Page
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
-    To help the client by refactoring their webpage to make it accessible and to improve SEO, whilst cleaning the code.
+    
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-    To create a platform for the client to review/test progress (assuming you mean creating the project in GitHub? Otherwise, the why meets the motivation above).
-- What problem does it solve?
-    It fixes the broken nav link, adds accessibility via alt tags and icreases organization with semantic improvements, comments and CSS consolidation.
-- What did you learn?
-    I learned of the tight relationship between html/CSS through making adjustments and reconciling changes to "flow" between html and CSS.
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+    This project was created at the client's request to refactor their webpage to increase accessibility and to improve SEO. In the process of reviewing and updating, efforts to clean up the code were implemented by merging redundant css, renaming semantic elements and adding reference notes to the html. The goal was to create the aforementioned points for review by the client to review and later merge to their live code. The specific concerns of the client were addressed by fixing the broken nav link and adding accessibility via alt tags, both of which will increase the SEO of the webpage. The tight relationship between html/CSS via adjustments and reconciling changes to "flow" between html and CSS held my attention and required the most problem solving.
+   
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-    The client would need only update/implement the index/style files.
+    The client would need only merge the code updates to the live code after testing for bugs. As there were no testing branches on this project, that step is not applicable.
+
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
